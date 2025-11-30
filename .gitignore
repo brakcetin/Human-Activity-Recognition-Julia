@@ -1,0 +1,40 @@
+# --- Datasets ---
+dataset/train.csv
+dataset/test.csv
+dataset/*.csv
+dataset/*.txt
+
+# --- Documentation & Personal Files ---
+researches/
+Final Project Asignment.pdf
+Final Project Asignment.txt
+iris.data
+julia_setup.md
+readme.txt
+sonar.all_data
+Unit 1 - Introduction-self_study.ipynb
+Unit 2 - Multilayer Perceptron_SOLVED.ipynb
+Unit 3 - Overfitting.ipynb
+Unit 4.1 - Metrics.ipynb
+Unit 4.2 - Multiclass classification.ipynb
+Unit 5 - Cross-validation.ipynb
+Unit 6 - Machine learning libraries in Julia.ipynb
+Unit 7 - Ensemble Models.ipynb
+Unit 8 - Dimension Reduction.ipynb
+unit2_ann_utils.jl
+unit3_overfitting.jl
+unit4_1_metrics.jl
+unit4_2_metrics.jl
+unit5_crossvalidation.jl
+unit6_modelcrossvalidation.jl
+unit7-8_Burak_Cetin.zip
+
+# --- Julia Generated Files ---
+*.ji
+*.cov
+*.mem
+*.tmp
+.DS_Store
+
+# --- Images ---
+img/
